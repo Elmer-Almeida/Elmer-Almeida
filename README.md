@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elmer-Almeida
-- 👀 I’m interested in Angular, React and React Native.
-- 🌱 I’m currently learning Advanced Angular Concepts.
+- 👀 I’m interested in Angular, React, and React Native development.
+- 🌱 I’m currently finishing college.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me hello@elmeralmeida.com
 
