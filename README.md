@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elmer-Almeida
-- 👀 I’m interested in Web and App development.
-- 🌱 I’m currently a part-time semester away from completing my Software Development and Network Engineering program at Sheridan College. (Fall 2022)
+- 👀 I’m interested in App and Web development.
+- 🌱 I’m at the end of my Software Development and Network Engineering program at Sheridan College.
 - 💞️ I’m looking to collaborate on interesting and exciting projects.
 - 📫 How to reach me? Send me an email at contact@elmeralmeida.dev
 
